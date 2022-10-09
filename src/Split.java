@@ -24,8 +24,5 @@ public class Split {
     System.out.println("Second word: " + secondWord);
 
 
-
-
-
   }
 }
