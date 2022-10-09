@@ -5,4 +5,4 @@ Code snipptes subjects:
 
 [Switch](https://www.w3schools.com/java/java_switch.asp)
 
-[String methods like split](https://www.w3schools.com/java/java_ref_string.asp)
+[Split](https://www.geeksforgeeks.org/split-string-java-examples/)
